@@ -1,2 +1,2 @@
 # CustomBootloader
-Custom bootloader for future OS development. Installed gcc compiler and have printed "Hello World !" program.
+Custom bootloader for future OS development. Installed gcc compiler and printed a "Hello World !" program.
